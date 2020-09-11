@@ -45,7 +45,7 @@ calc = my_book.macro('calc')
 my_calc = calc(2, 3)
 print(my_calc)
 print('do more stuff')
-
+print('good job - test git as well')
 '''
 if __name__ == "__main__":
     # make a udf de-bugging
